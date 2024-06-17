@@ -1,5 +1,5 @@
 # java_lab
-Java exercise and labs<br>
+<h1>Java exercise and labs</h1>
 Written by ahn kongrit<br>
 Written Date : 17 June 2024<br>
 Objective : learning<br> 
